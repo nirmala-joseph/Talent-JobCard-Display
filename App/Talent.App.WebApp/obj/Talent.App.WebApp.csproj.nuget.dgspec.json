@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anoop\\Source\\Repos\\talent-competition2\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anoop\\Source\\Repos\\talent-competition2\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anoop\\Source\\Repos\\talent-competition2\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+        "projectName": "Talent.App.WebApp",
+        "projectPath": "C:\\Users\\anoop\\Source\\Repos\\talent-competition2\\App\\Talent.App.WebApp\\Talent.App.WebApp.csproj",
+        "packagesPath": "C:\\Users\\anoop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anoop\\Source\\Repos\\talent-competition2\\App\\Talent.App.WebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
